@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.cache/
+.env
+.env.local
+.DS_Store
+*.log
+.browser_data_dir/
+.pki/
+.logs/
+.npm/
+.nvm/
+.config/
+.local/
+.secrets/
